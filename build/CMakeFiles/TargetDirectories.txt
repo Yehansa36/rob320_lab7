@@ -1,0 +1,4 @@
+/home/rob320/Documents/Lab7/build/CMakeFiles/gradient_descent_service.dir
+/home/rob320/Documents/Lab7/build/CMakeFiles/gradient_descent_client.dir
+/home/rob320/Documents/Lab7/build/CMakeFiles/edit_cache.dir
+/home/rob320/Documents/Lab7/build/CMakeFiles/rebuild_cache.dir

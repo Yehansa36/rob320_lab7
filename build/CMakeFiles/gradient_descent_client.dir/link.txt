@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/gradient_descent_client.dir/gradient_descent_client.cpp.o -o gradient_descent_client  ../lib/librixcore.a ../lib/librixutil.a ../lib/librixipc.a -lpthread 
